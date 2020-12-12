@@ -1,0 +1,8 @@
+CS102-1
+Bulut Gözübüyük - 21702771
+02.10.2019
+Estimated time spent on this exercise: 3 hours
+Status of the code: Working
+
+	The first attempt of me was to find and remove the redundant parts of all codes to prepare an environment to work on it. Since there was no communication between groups while writing those codes, when I looked the codes first time they were unrelevant. After removing redundant parts I have arranged 2 main files. The Hangman.java and the app. 
+	The first problem I have encountered after arranging the code is that I was unable to make TryThis method work. I rewrote it from scratch to avoid any issues. By the way, I have debugged almost all of the code in order to run it properly. There were also redundant variables, conditions etc.

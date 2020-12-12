@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" main="Main" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Main.java" package="" timestamp="10-Oct-2019 13:33:35">
+        <select from="1523" to="1523"/>
+        <scroll column="642" row="0"/>
+      </file>
+      <file name="fibonacci.java" package="" timestamp="10-Oct-2019 12:15:39">
+        <select from="1523" to="1523"/>
+        <scroll column="642" row="0"/>
+      </file>
+      <file name="IntBag.java" package="" timestamp="10-Oct-2019 13:32:36">
+        <select from="1523" to="1523"/>
+        <scroll column="642" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
